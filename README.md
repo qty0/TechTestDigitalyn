@@ -2,6 +2,7 @@
 
 You will need to complete two assignments, both of which should take 2 hours to fully complete. Be thoughtful and look for edge cases.
 
+It doesn't matter in which order do you complete these tasks.
 
 ## Task 1: Visualization with seaborn and pandas.
 
